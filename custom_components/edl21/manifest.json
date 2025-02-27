@@ -1,7 +1,7 @@
 {
   "version": "2.1.0",
-  "domain": "edl21",
-  "name": "EDL21",
+  "domain": "edl21-custom",
+  "name": "EDL21-custom",
   "documentation": "https://www.home-assistant.io/integrations/edl21",
   "requirements": ["pysml==0.1.4"],
   "codeowners": [],
